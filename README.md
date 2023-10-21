@@ -15,4 +15,10 @@ Pontos-chave a serem observados:: 
 - Utilizar indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
 
 ## Print do Relatório Publicado
+### - Página 1
+  
+<img src="/Relatório Publicado - Pagina1.JPG">
 
+### - Página 2
+
+<img src="/Relatório Publicado - Pagina2.JPG">
